@@ -1,2 +1,2 @@
 # signalis-mods
-Mods for the dystopian horror Unity game, Signalis.
+Mods for the dystopian horror game Signalis
